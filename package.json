@@ -1,7 +1,7 @@
 {
   "name": "test_quick_deal",
   "private": true,
-  "homepage": "https://mrsnail04.github.io/Test_Quick_Deal/",
+  "homepage": ".",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
