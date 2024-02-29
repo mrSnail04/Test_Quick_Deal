@@ -1,10 +1,13 @@
 {
   "name": "test_quick_deal",
   "private": true,
+  "homepage": "https://mrsnail04.github.io/Test_Quick_Deal/",
   "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "preview": "vite preview"
   },
